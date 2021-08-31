@@ -1,2 +1,4 @@
+install:
+  - ./gradlew build :loading-dots:publishToMavenLocal
 jdk:
   - openjdk11
